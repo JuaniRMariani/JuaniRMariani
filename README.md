@@ -70,13 +70,29 @@ Estudiante avanzado de **Ingeniería en Sistemas de la Información** en la Univ
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanIRMariani&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)](https://github.com/JuanIRMariani)
+<a href="https://github.com/JuanIRMariani">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanIRMariani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF"/>
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanIRMariani&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/JuanIRMariani)
+<a href="https://github.com/JuanIRMariani">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanIRMariani&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF"/>
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JuanIRMariani&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)](https://github.com/JuanIRMariani)
+</div>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=JuanIRMariani&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/JuanIRMariani)
+<div align="center">
+
+<a href="https://github.com/JuanIRMariani">
+  <img src="https://streak-stats.demolab.com/?user=JuanIRMariani&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=FFFFFF&dates=FFFFFF"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/JuanIRMariani">
+  <img src="https://github-profile-trophy.vercel.app/?username=JuanIRMariani&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4&title=Commits,Repositories,Stars,Followers"/>
+</a>
 
 </div>
 
