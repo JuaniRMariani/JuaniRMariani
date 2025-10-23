@@ -116,6 +116,8 @@ func getCurrentGoals() []string {
 
 </div>
 
+<br/>
+
 <div align="center">
 
 <a href="https://github.com/JuanIRMariani">
@@ -124,10 +126,12 @@ func getCurrentGoals() []string {
 
 </div>
 
+<br/>
+
 <div align="center">
 
 <a href="https://github.com/JuanIRMariani">
-  <img src="https://github-profile-trophy.vercel.app/?username=JuanIRMariani&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=3&title=Commits,Repositories,PullRequest"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JuanIRMariani&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=3&title=Commits,Repositories,PullRequest"/>
 </a>
 
 </div>
