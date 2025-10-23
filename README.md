@@ -14,6 +14,11 @@
 
 ## 🚀 About Me
 
+<div align="center">
+<table>
+<tr>
+<td width="50%" style="border: none; padding: 20px;">
+
 ### 👤 Profile
 ```bash
 $ whoami
@@ -23,18 +28,26 @@ $ whoami
 > Bahía Blanca, Buenos Aires 🇦🇷
 ```
 
+</td>
+<td width="50%" style="border: none; padding: 20px;">
+
+### 💡 What Defines Me
+```bash
+$ cat skills.txt
+> Disciplined and persistent
+> Continuous learning
+> Effective teamwork
+> Clean Code & SOLID principles
+```
+
+</td>
+</tr>
+</table>
+</div>
+
 Advanced **Computer Systems Engineering** student at Universidad Nacional del Sur. Passionate about software development, scalable architecture, and solving complex problems with elegant solutions.
 
-**Current Focus:** Microservices · Cloud Architecture · DevOps Practices
-
-### 💡 What Defines Me:
-⚡ Disciplined and persistent  
-🎯 Continuous learning  
-🤝 Effective teamwork  
-🏗️ Clean Code & SOLID principles
-
 ---
-
 
 ## 📊 GitHub Stats
 
