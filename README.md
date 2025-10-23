@@ -2,7 +2,7 @@
 
 # 👨‍💻 Juan Ignacio Rodriguez Mariani
 
-### Software Developer | Full Stack Engineer | Estudiante de Ingeniería
+### Software Developer | Full Stack Engineer | Computer Engineering Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ignacio-rodriguez-mariani/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanIRMariani)
@@ -12,67 +12,30 @@
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-<table>
-<tr>
-<td width="50%">
-
-### 👤 Perfil
+### 👤 Profile
 ```bash
 $ whoami
 > Juan Ignacio Rodriguez Mariani
 > Software Developer @ NexoSmart
-> Ing. en Sistemas | UNS
+> Computer Systems Engineering | UNS
 > Bahía Blanca, Buenos Aires 🇦🇷
 ```
 
-### 🎯 Mindset
-```python
-mindset = {
-    'adaptabilidad': True,
-    'trabajo_en_equipo': True,
-    'aprendizaje_continuo': True,
-    'disciplina': 'high'
-}
-```
+Advanced **Computer Systems Engineering** student at Universidad Nacional del Sur. Passionate about software development, scalable architecture, and solving complex problems with elegant solutions.
 
-</td>
-<td width="50%">
+**Current Focus:** Microservices · Cloud Architecture · DevOps Practices
 
-### 💻 Especialización
-```javascript
-const skills = [
-  'Full Stack Development',
-  'Arquitectura Escalable',
-  'Clean Code & SOLID',
-  'APIs RESTful',
-  'Diseño de Sistemas'
-];
-```
-
-### ⚡ Focus
-```go
-func getCurrentGoals() []string {
-    return []string{
-        "Microservicios",
-        "Cloud Architecture",
-        "DevOps Practices",
-    }
-}
-```
-
-</td>
-</tr>
-</table>
+### 💡 What Defines Me:
+⚡ Disciplined and persistent  
+🎯 Continuous learning  
+🤝 Effective teamwork  
+🏗️ Clean Code & SOLID principles
 
 ---
 
-**Estudiante avanzado** de Ingeniería en Sistemas de la Información (UNS). Apasionado por resolver **problemas complejos** con soluciones elegantes y escalables.
-
----
-
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -91,7 +54,7 @@ func getCurrentGoals() []string {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Bases de Datos & Herramientas
+### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -102,7 +65,7 @@ func getCurrentGoals() []string {
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -121,7 +84,7 @@ func getCurrentGoals() []string {
 <div align="center">
 
 <a href="https://github.com/JuanIRMariani">
-  <img src="https://streak-stats.demolab.com/?user=JuanIRMariani&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=FFFFFF&dates=FFFFFF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanIRMariani&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&area_color=FF6B6B"/>
 </a>
 
 </div>
@@ -138,45 +101,45 @@ func getCurrentGoals() []string {
 
 ---
 
-## 🏆 Competencias Clave
+## 🏆 Key Skills
 
 <div align="center">
 
-| 💻 **Técnicas** | 🤝 **Profesionales** |
+| 💻 **Technical** | 🤝 **Professional** |
 |:---:|:---:|
-| Arquitectura de Software | Trabajo en Equipo |
-| Desarrollo Full Stack | Comunicación Efectiva |
-| APIs RESTful | Gestión de Proyectos |
-| Clean Code & SOLID | Liderazgo |
-| Resolución de Problemas | Mindset Ágil |
-| Diseño de Bases de Datos | Adaptabilidad |
+| Software Architecture | Teamwork |
+| Full Stack Development | Effective Communication |
+| RESTful APIs | Project Management |
+| Clean Code & SOLID | Leadership |
+| Problem Solving | Agile Mindset |
+| Database Design | Adaptability |
 
 </div>
 
 ---
 
-## 🎯 En qué estoy trabajando
+## 🎯 What I'm Working On
 
 ```javascript
-const enQuéEstoy = {
-  💼 trabajo: "Desarrollo de plataformas escalables en NexoSmart",
-  📚 aprendiendo: ["Arquitecturas Cloud", "Microservicios", "DevOps"],
-  🔨 proyectos: ["Aplicaciones Full Stack", "Desarrollo de APIs", "Diseño de Sistemas"],
-  🎓 estudiando: "Ingeniería en Sistemas | 5to año - UNS"
+const currentlyWorkingOn = {
+  💼 work: "Building scalable platforms at NexoSmart",
+  📚 learning: ["Cloud Architectures", "Microservices", "DevOps"],
+  🔨 projects: ["Full Stack Apps", "API Development", "System Design"],
+  🎓 studying: "Computer Systems Engineering | 5th Year - UNS"
 };
 ```
 
 ---
 
-## 📫 Conectemos
+## 📫 Let's Connect
 
 <div align="center">
 
-**¿Querés colaborar en un proyecto? ¡Hablemos!**
+**Want to collaborate on a project? Let's talk!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ignacio-rodriguez-mariani/)
-[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanirmariani@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Seguir-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanIRMariani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ignacio-rodriguez-mariani/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanirmariani@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanIRMariani)
 
 </div>
 
@@ -184,10 +147,8 @@ const enQuéEstoy = {
 
 <div align="center">
 
-### 💭 *"El código es como el humor. Cuando tenés que explicarlo, es malo."* - Cory House
+![Profile Views](https://komarev.com/ghpvc/?username=JuanIRMariani&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
-![Visitas al Perfil](https://komarev.com/ghpvc/?username=JuanIRMariani&color=blueviolet&style=for-the-badge&label=Visitas)
-
-**⭐ Si te gusta mi trabajo, no dudes en dejar una estrella en mis repos ⭐**
+**⭐ If you like my work, feel free to star my repos ⭐**
 
 </div>
