@@ -14,25 +14,61 @@
 
 ## 🚀 Sobre mí
 
-```typescript
-const developer = {
-  nombre: "Juan Ignacio Rodriguez Mariani",
-  ubicacion: "Bahía Blanca, Buenos Aires 🇦🇷",
-  educacion: "Ingeniería en Sistemas | UNS",
-  rolActual: "Software Developer @ NexoSmart",
-  mindset: ["Ágil", "Disciplinado", "Perseverante"],
-  pasiones: ["Clean Code", "Escalabilidad", "Aprendizaje Continuo"],
-  modalidad: "Híbrido & Remoto"
-};
+<table>
+<tr>
+<td width="50%">
+
+### 👤 Perfil
+```bash
+$ whoami
+> Juan Ignacio Rodriguez Mariani
+> Software Developer @ NexoSmart
+> Ing. en Sistemas | UNS
+> Bahía Blanca, Buenos Aires 🇦🇷
 ```
 
-Estudiante avanzado de **Ingeniería en Sistemas de la Información** en la Universidad Nacional del Sur. Apasionado por el desarrollo de software y la arquitectura escalable. Me destaco por mi capacidad de **comunicación efectiva**, **adaptabilidad** y **trabajo en equipo**.
+### 🎯 Mindset
+```python
+mindset = {
+    'adaptabilidad': True,
+    'trabajo_en_equipo': True,
+    'aprendizaje_continuo': True,
+    'disciplina': 'high'
+}
+```
 
-### 💡 Lo que me impulsa:
-- ⚡ Resolver problemas complejos con soluciones elegantes
-- 🎯 Aprendizaje continuo y mejora constante
-- 🤝 Colaboración efectiva en equipos multidisciplinarios
-- 🏗️ Construcción de software escalable y mantenible
+</td>
+<td width="50%">
+
+### 💻 Especialización
+```javascript
+const skills = [
+  'Full Stack Development',
+  'Arquitectura Escalable',
+  'Clean Code & SOLID',
+  'APIs RESTful',
+  'Diseño de Sistemas'
+];
+```
+
+### ⚡ Focus
+```go
+func getCurrentGoals() []string {
+    return []string{
+        "Microservicios",
+        "Cloud Architecture",
+        "DevOps Practices",
+    }
+}
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+**Estudiante avanzado** de Ingeniería en Sistemas de la Información (UNS). Apasionado por resolver **problemas complejos** con soluciones elegantes y escalables.
 
 ---
 
@@ -91,7 +127,7 @@ Estudiante avanzado de **Ingeniería en Sistemas de la Información** en la Univ
 <div align="center">
 
 <a href="https://github.com/JuanIRMariani">
-  <img src="https://github-profile-trophy.vercel.app/?username=JuanIRMariani&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4&title=Commits,Repositories,Stars,Followers"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JuanIRMariani&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=3&title=Commits,Repositories,PullRequest"/>
 </a>
 
 </div>
