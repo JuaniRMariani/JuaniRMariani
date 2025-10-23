@@ -2,9 +2,9 @@
 
 # 👨‍💻 Juan Ignacio Rodriguez Mariani
 
-### Software Developer | Full Stack Engineer | Student
+### Software Developer | Full Stack Engineer | Estudiante de Ingeniería
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/juan-ignacio-rodriguez-mariani/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ignacio-rodriguez-mariani/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanIRMariani)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juanirmariani/)
 
@@ -16,13 +16,13 @@
 
 ```typescript
 const developer = {
-  name: "Juan Ignacio Rodriguez Mariani",
-  location: "Bahía Blanca, Buenos Aires 🇦🇷",
-  education: "Ingeniería en Sistemas | UNS",
-  currentRole: "Software Developer @ NexoSmart",
+  nombre: "Juan Ignacio Rodriguez Mariani",
+  ubicacion: "Bahía Blanca, Buenos Aires 🇦🇷",
+  educacion: "Ingeniería en Sistemas | UNS",
+  rolActual: "Software Developer @ NexoSmart",
   mindset: ["Ágil", "Disciplinado", "Perseverante"],
-  passions: ["Clean Code", "Scalability", "Continuous Learning"],
-  workMode: "Hybrid & Remote"
+  pasiones: ["Clean Code", "Escalabilidad", "Aprendizaje Continuo"],
+  modalidad: "Híbrido & Remoto"
 };
 ```
 
@@ -36,7 +36,7 @@ Estudiante avanzado de **Ingeniería en Sistemas de la Información** en la Univ
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Estudiante avanzado de **Ingeniería en Sistemas de la Información** en la Univ
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Database & Tools
+### Bases de Datos & Herramientas
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -66,25 +66,17 @@ Estudiante avanzado de **Ingeniería en Sistemas de la Información** en la Univ
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanIRMariani&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanIRMariani&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)](https://github.com/JuanIRMariani)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanIRMariani&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanIRMariani&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/JuanIRMariani)
 
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JuanIRMariani&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)](https://github.com/JuanIRMariani)
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanIRMariani&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanIRMariani&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=JuanIRMariani&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/JuanIRMariani)
 
 </div>
 
@@ -97,11 +89,11 @@ Estudiante avanzado de **Ingeniería en Sistemas de la Información** en la Univ
 | 💻 **Técnicas** | 🤝 **Profesionales** |
 |:---:|:---:|
 | Arquitectura de Software | Trabajo en Equipo |
-| Full Stack Development | Comunicación Efectiva |
+| Desarrollo Full Stack | Comunicación Efectiva |
 | APIs RESTful | Gestión de Proyectos |
 | Clean Code & SOLID | Liderazgo |
-| Problem Solving | Mindset Ágil |
-| Database Design | Adaptabilidad |
+| Resolución de Problemas | Mindset Ágil |
+| Diseño de Bases de Datos | Adaptabilidad |
 
 </div>
 
@@ -110,11 +102,11 @@ Estudiante avanzado de **Ingeniería en Sistemas de la Información** en la Univ
 ## 🎯 En qué estoy trabajando
 
 ```javascript
-const currentFocus = {
+const enQuéEstoy = {
   💼 trabajo: "Desarrollo de plataformas escalables en NexoSmart",
   📚 aprendiendo: ["Arquitecturas Cloud", "Microservicios", "DevOps"],
-  🔨 proyectos: ["Full Stack Apps", "API Development", "System Design"],
-  🎓 estudiando: "Ingeniería en Sistemas | 5to año"
+  🔨 proyectos: ["Aplicaciones Full Stack", "Desarrollo de APIs", "Diseño de Sistemas"],
+  🎓 estudiando: "Ingeniería en Sistemas | 5to año - UNS"
 };
 ```
 
@@ -124,11 +116,11 @@ const currentFocus = {
 
 <div align="center">
 
-**¿Quieres colaborar en un proyecto? ¡Hablemos!**
+**¿Querés colaborar en un proyecto? ¡Hablemos!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([tu-linkedin](https://www.linkedin.com/in/juan-ignacio-rodriguez-mariani/))
-[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juanirmariani@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Proyectos-000000?style=for-the-badge&logo=vercel&logoColor=white)](tu-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ignacio-rodriguez-mariani/)
+[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanirmariani@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Seguir-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanIRMariani)
 
 </div>
 
@@ -136,9 +128,9 @@ const currentFocus = {
 
 <div align="center">
 
-### 💭 *"El código es como el humor. Cuando tienes que explicarlo, es malo."* - Cory House
+### 💭 *"El código es como el humor. Cuando tenés que explicarlo, es malo."* - Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=JuanIRMariani&color=blueviolet&style=for-the-badge)
+![Visitas al Perfil](https://komarev.com/ghpvc/?username=JuanIRMariani&color=blueviolet&style=for-the-badge&label=Visitas)
 
 **⭐ Si te gusta mi trabajo, no dudes en dejar una estrella en mis repos ⭐**
 
