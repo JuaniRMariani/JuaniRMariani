@@ -54,11 +54,11 @@ Advanced **Computer Systems Engineering** student at Universidad Nacional del Su
 <div align="center">
 
 <a href="https://github.com/JuanIRMariani">
-  <img height="180em" src="https://github-readme-stats-juanirmarianis-projects.vercel.app/api?username=JuanIRMariani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-juanirmarianis-projects.vercel.app/api?username=JuanIRMariani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&v=1"/>
 </a>
 
 <a href="https://github.com/JuanIRMariani">
-  <img height="180em" src="https://github-readme-stats-juanirmarianis-projects.vercel.app/api/top-langs/?username=JuanIRMariani&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-juanirmarianis-projects.vercel.app/api/top-langs/?username=JuanIRMariani&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&v=1"/>
 </a>
 
 </div>
