@@ -51,17 +51,9 @@ Advanced **Computer Systems Engineering** student at Universidad Nacional del Su
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Stats](https://github-readme-stats-juanirmarianis-projects.vercel.app/api?username=JuanIRMariani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&disable_animations=true)
 
-<a href="https://github.com/JuanIRMariani">
-  <img height="180" src="https://github-readme-stats-juanirmarianis-projects.vercel.app/api?username=JuanIRMariani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&t=final"/>
-</a>
-
-<a href="https://github.com/JuanIRMariani">
-  <img height="180" src="https://github-readme-stats-juanirmarianis-projects.vercel.app/api/top-langs/?username=JuanIRMariani&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&t=final"/>
-</a>
-
-</div>
+![Langs](https://github-readme-stats-juanirmarianis-projects.vercel.app/api/top-langs/?username=JuanIRMariani&layout=compact&langs_count=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&disable_animations=true)
 
 <br/>
 
